@@ -1,6 +1,6 @@
 # Project 8 : Web Design Landing Page
 
-- Click here for live demo of the Project on [ NETLIFY ](https://parikshitproject2.netlify.app/ "Parikshit Project 1")
+- Click here for live demo of the Project on [ NETLIFY ](https://parikshitproject8.netlify.app/ "Parikshit Project 8")
 
 <br/>
 
